@@ -1,31 +1,21 @@
 # About
- Şeytani: Xinmao, is a dark fantasy novella published in 2021. While originally available in Turkish, an English adaptation is also available in stores.
+Şeytani is a dark fantasy novel, split in four novellas.
+* Şeytani: Xinmao, the first act of Şeytani, was published in December 2021. While originally available in Turkish, an English adaptation is also available in stores.
 
-## Platforms
-Şeytani: Xinmao is available on many publishing platforms.
+## E-Book Stores
+Şeytani: Xinmao is available on many publishing platforms for free. A Markdown version will also be available.
 
-### Türkçe
+#### Türkçe
+* [Kobo](https://www.kobo.com/tr/tr/ebook/xinmao)
+* [Google](https://play.google.com/store/books/details/Sinan_Ozan_%C3%96zel_%C5%9Eeytani_Xinmao?id=oABTEAAAQBAJ)
+* [Smashwords](https://www.smashwords.com/books/view/1119559)
+* [Apple](https://books.apple.com/us/book/%C5%9Feytani-xinmao/id1598742042)
 
-Kobo:
-Google:
-Smashwords:
-Apple (US only): 
+#### TODO: English
+* [Amazon]()
+* [Kobo]()
+* [Google]()
+* [Smashwords]()
+* [Apple]()
 
-### English
-
-Kobo:
-Amazon:
-Google:
-Smashwords:
-Apple: 
-
-## Markdown
-You may also read Şeytani: Xinmao in Markdown, if you so desire.
-
-### Türkçe
-
-* İçerik
-
-### English
-
-* Index
+### TODO: Xinmao (Markdown)
