@@ -12,10 +12,10 @@
 * [Apple](https://books.apple.com/us/book/%C5%9Feytani-xinmao/id1598742042)
 
 #### TODO: English
-* [Amazon]()
-* [Kobo]()
-* [Google]()
-* [Smashwords]()
-* [Apple]()
+* [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow Free eBooks when published by Kindle Direct Publishing.
+* [Kobo]() - Not available yet.
+* [Google]() - Not available yet. 
+* [Smashwords](https://www.smashwords.com/books/view/1126382)
+* [Apple]() - Not available yet. 
 
 ### TODO: Xinmao (Markdown)
