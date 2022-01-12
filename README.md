@@ -11,7 +11,7 @@
 * [Smashwords](https://www.smashwords.com/books/view/1119559)
 * [Apple](https://books.apple.com/us/book/%C5%9Feytani-xinmao/id1598742042)
 
-#### TODO: English
+#### English
 * [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow Free eBooks when published via Kindle Direct Publishing.
 * [Kobo]() - Not available yet.
 * [Google]() - Not available yet. 
