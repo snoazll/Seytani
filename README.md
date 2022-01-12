@@ -1,5 +1,5 @@
 # About
-Şeytani is a dark fantasy novel, split in four novellas.
+Şeytani is a dark fantasy novel, split into four novellas.
 * Şeytani: Xinmao, the first act of Şeytani, was published in December 2021. While originally available in Turkish, an English adaptation is also available in stores.
 
 ## E-Book Stores
