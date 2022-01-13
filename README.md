@@ -12,7 +12,7 @@
 * [Apple](https://books.apple.com/us/book/%C5%9Feytani-xinmao/id1598742042)
 
 #### English
-* [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow Free eBooks when published via Kindle Direct Publishing.
+* [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow free E-Books when published via Kindle Direct Publishing, unfortunately. So it's set to lowest possible price.
 * [Kobo]() - Not available yet.
 * [Google](https://play.google.com/store/books/details?id=C9NYEAAAQBAJ)
 * [Smashwords](https://www.smashwords.com/books/view/1126382)
