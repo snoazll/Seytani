@@ -14,7 +14,7 @@
 #### English
 * [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow Free eBooks when published via Kindle Direct Publishing.
 * [Kobo]() - Not available yet.
-* [Google]() - Not available yet. 
+* [Google](https://play.google.com/store/books/details?id=C9NYEAAAQBAJ)
 * [Smashwords](https://www.smashwords.com/books/view/1126382)
 * [Apple]() - Not available yet. 
 
