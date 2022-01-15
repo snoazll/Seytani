@@ -13,7 +13,7 @@
 
 #### English
 * [Amazon](https://www.amazon.com/dp/B09QBGL834) - Amazon doesn't allow free E-Books when published via Kindle Direct Publishing, unfortunately. So it's set to lowest possible price.
-* [Kobo]() - Not available yet.
+* [Kobo](https://www.kobo.com/tr/tr/ebook/xinmao-1)
 * [Google](https://play.google.com/store/books/details?id=C9NYEAAAQBAJ)
 * [Smashwords](https://www.smashwords.com/books/view/1126382)
 * [Apple]() - Not available yet. 
